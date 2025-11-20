@@ -86,8 +86,8 @@ Larger, portfolio-ready applications as I progress through LinkedIn Learning, fr
 
 - **LinkedIn:** https://www.linkedin.com/in/calvinvanriper
 - **CodePen:** https://codepen.io/calvinvanriper
-- **Email:**
-- **Portfolio:** (coming soon)
+- **Email:** hello@calvinvanriper.dev
+- **Portfolio:** https://calvinvanriper.dev (Under Construction)
 
 ---
 
