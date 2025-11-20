@@ -47,6 +47,14 @@ Currently, I'm focused on developing real-world projects using modern web techno
 
 ## 🛠️ Projects (More Coming Soon!)
 
+### 🎨 CodePen Projects
+Here are a few interactive UI/Animation experiments I've built on CodePen:
+
+- 🔗 **[Developer Intro Card](https://codepen.io/calvinvanriper/pen/bNproJd)**
+- 🔗 **[Developer Intro Card w/ Animation](https://codepen.io/calvinvanriper/pen/NPNvBOj)**
+
+*(More coming soon! Click any link to open the live demo.)*
+
 ### 🔧 **JavaScript Mini-Projects**
 Interactive front-end components and small utilities to build core skills.
 
