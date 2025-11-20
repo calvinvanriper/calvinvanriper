@@ -50,8 +50,15 @@ Currently, I'm focused on developing real-world projects using modern web techno
 ### 🎨 CodePen Projects
 Here are a few interactive UI/Animation experiments I've built on CodePen:
 
-- **[![Developer Intro Card](images/dev-intro-card.png)](https://codepen.io/calvinvanriper/full/bNproJd)**
-- **[![Developer Intro Card w/ Animation](images/dev-intro-animation.png)](https://codepen.io/calvinvanriper/full/NPNvBOj)**
+<p align="left">
+  <a href="https://codepen.io/calvinvanriper/full/bNproJd">
+    <img src="images/dev-intro-card.png" alt="Developer intro Card" width="120" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codepen.io/calvinvanriper/full/NPNvBOj">
+    <img src="images/dev-intro-animation.png" alt="Developer intro Card with Animation" width="120" />
+  </a>
+</p>
 
 *(More coming soon! Click any link to open the live demo.)*
 
