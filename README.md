@@ -56,7 +56,7 @@ Here are a few interactive UI/Animation experiments I've built on CodePen:
   </a>
   &nbsp;&nbsp;
   <a href="https://codepen.io/calvinvanriper/full/NPNvBOj" style="text-decoration:none;">
-    <img src="images/dev-intro-animation.png" alt="Developer intro Card with Animation" width="120" height="100" />
+    <img src="image/dev-intro-animation.png" alt="Developer intro Card with Animation" width="120" height="100" />
   </a>
 </p>
 
