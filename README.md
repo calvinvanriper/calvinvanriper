@@ -69,15 +69,29 @@ Hi! I'm Calvin — a Full-Stack Developer in training, automation enthusiast, an
 
 ## 🎨 Projects (Interactive & Portfolio Highlights)
 
-| Project | Description | Link |
-|---------|-------------|------|
-| Developer Intro Card | Clean, responsive HTML/CSS card introducing me | [Live Demo](https://codepen.io/calvinvanriper/full/bNproJd) |
-| Animated Intro Card | Dynamic CSS animations demonstrating interactivity | [Live Demo](https://codepen.io/calvinvanriper/full/NPNvBOj) |
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| **Developer Intro Card** | Clean, responsive personal branding card | ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white) | [Live Demo](https://codepen.io/calvinvanriper/full/bNproJd) |
+| **Animated Intro Card** | Dynamic animated personal intro UI | ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white) ![Animation](https://img.shields.io/badge/CSS-Animations-ff69b4) | [Live Demo](https://codepen.io/calvinvanriper/full/NPNvBOj) |
+| **Christmas List App** | Interactive JavaScript wishlist with real-time totals and product links | ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black) | [Live Demo](https://codepen.io/calvinvanriper/pen/Wbwaggy) |
 
 **Other Projects:**  
-- **JavaScript Mini-Projects:** Interactive front-end components and utilities  
-- **Automation Tools:** Scripts and workflows to improve efficiency  
-- **Full-Stack Applications:** Portfolio-ready apps using Node.js, Express.js, and front-end frameworks  
+- **JavaScript Mini-Projects:**  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)  
+  DOM manipulation, event handling, interactive UI utilities  
+
+- **Automation Tools:**  
+  ![PowerShell](https://img.shields.io/badge/PowerShell-blue?logo=powershell&logoColor=white)
+  ![VBA](https://img.shields.io/badge/Excel-VBA-green?logo=microsoft-excel&logoColor=white)
+  ![Batch](https://img.shields.io/badge/Batch-Scripting-lightgrey)  
+  Real-world IT workflow automation  
+
+- **Full-Stack Applications (In Progress):**  
+  ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white)
+  ![REST](https://img.shields.io/badge/REST-API-red)
+  ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
+ 
 
 ---
 
