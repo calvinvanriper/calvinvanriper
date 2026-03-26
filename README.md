@@ -1,113 +1,82 @@
 # Hi there 👋 I'm Calvin VanRiper
 
-### Full-Stack Developer in Training | Automation Engineer | U.S. Army Veteran
+### Front-End Developer | Automation Engineer | U.S. Army Veteran
 
-Hi! I'm Calvin — a Full-Stack Developer in training, automation enthusiast, and U.S. Army veteran with 15+ years of technical leadership and systems operations experience. I build clean, interactive web applications, scalable automation tools, and practical software solutions while leveraging my background in high-stakes, precision-driven environments.
+I build interactive, state-driven web applications with a focus on clarity, structure, and user experience.
 
----
-
-## 🚀 Tech Stack & Tools
-
-**Languages & Scripting:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python) 
-![SQL](https://img.shields.io/badge/SQL-FCC300?logo=postgresql&logoColor=white) 
-![Bash](https://img.shields.io/badge/Bash-Shell-4EAA25?logo=gnu-bash&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-17-red?logo=java&logoColor=white) 
-![VBA](https://img.shields.io/badge/VBA-Microsoft-green?logo=microsoft) 
-![PowerShell](https://img.shields.io/badge/PowerShell-Blue?logo=powershell&logoColor=white) 
-![Batch](https://img.shields.io/badge/Batch-Gray?logo=windows&logoColor=white)  
-
-**Front-End:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JS-ES6-yellow?logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
-
-**Back-End & Platforms:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) 
-![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white)  
+What started as structured learning quickly became something more — I genuinely enjoy building. Whether it's refining UI behavior, improving state management, or reworking architecture for clarity, I find myself going deeper into projects because I want to make them better.
 
 ---
 
-## 🛡️ Certifications
+## ⭐ Featured Projects
 
-![Security+](https://img.shields.io/badge/Security%2B-Valid%20through%20Mar%202029-brightgreen) 
-![Network+](https://img.shields.io/badge/Network%2B-Valid%20through%20Mar%202029-brightgreen) 
-![CCNA](https://img.shields.io/badge/CCNA-June2019--Dec2022-blue) 
-![CCNA Security](https://img.shields.io/badge/CCNA%20Security-June2019--Dec2022-blue)  
+### 🧠 Project Idea Board
+State-driven application with full CRUD functionality, status management, keyboard shortcuts, and persistent storage.
 
----
-
-## 🛠️ Experience & Transferable Skills
-
-- 15+ years leading technical teams, training personnel, and managing IT systems in the U.S. Army  
-- Skilled in **automation, process improvement, and problem-solving**  
-- Experienced in high-stakes, high-precision environments requiring reliability and collaboration  
-- Applying these skills to software development to create **efficient, scalable, and maintainable solutions**
+🔗 https://calvinvanriper.dev/javascript-learning-labs/mini-projects/project-idea-board/
 
 ---
 
-## 📚 Current Learning Roadmap
+### 🍨 Sweet Cart
+Interactive shopping cart with dynamic rendering, derived state calculations, and synchronized UI updates.
 
-**Full-Stack Foundations:**  
-- freeCodeCamp (Full Stack Developer Curriculum)  
-- LinkedIn Learning (Become a Full-Stack Web Developer)  
-- Coursera (Google IT Automation with Python - Professional Certificate)  
-
-**Upcoming Focus:**  
-- Advanced React projects  
-- Full-stack applications with Node.js, Express.js, and REST APIs  
-- Automation workflows and tooling using Python, VBA, PowerShell
+🔗 https://calvinvanriper.dev/javascript-learning-labs/mini-projects/sweet-cart/
 
 ---
 
-## 🎨 Projects (Interactive & Portfolio Highlights)
+### 🧩 Markdown to HTML Converter
+Custom parsing system that converts Markdown into structured HTML using a multi-step regex pipeline.
 
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| **Developer Intro Card** | Clean, responsive personal branding card | ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white) | [Live Demo](https://codepen.io/calvinvanriper/full/bNproJd) |
-| **Animated Intro Card** | Dynamic animated personal intro UI | ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white) ![Animation](https://img.shields.io/badge/CSS-Animations-ff69b4) | [Live Demo](https://codepen.io/calvinvanriper/full/NPNvBOj) |
-| **Christmas List App** | Interactive JavaScript wishlist with real-time totals and product links | ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black) | [Live Demo](https://codepen.io/calvinvanriper/pen/Wbwaggy) |
+🔗 https://calvinvanriper.dev/javascript-learning-labs/mini-projects/markdown-to-html-converter/
 
-**Other Projects:**  
-- **JavaScript Mini-Projects:**  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)  
-  DOM manipulation, event handling, interactive UI utilities  
+---
 
-- **Automation Tools:**  
-  ![PowerShell](https://img.shields.io/badge/PowerShell-blue?logo=powershell&logoColor=white)
-  ![VBA](https://img.shields.io/badge/Excel-VBA-green?logo=microsoft-excel&logoColor=white)
-  ![Batch](https://img.shields.io/badge/Batch-Scripting-lightgrey)  
-  Real-world IT workflow automation  
+### ♿ ARIA Tabs – Planets Interface
+Accessible tab interface implementing ARIA roles, keyboard navigation, and controlled focus management.
 
-- **Full-Stack Applications (In Progress):**  
-  ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white)
-  ![REST](https://img.shields.io/badge/REST-API-red)
-  ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
- 
+🔗 https://calvinvanriper.dev/javascript-learning-labs/dom-and-events/aria-tabs/
+
+---
+
+## 🛠️ What I Focus On
+
+- Building state-driven UI applications with predictable behavior  
+- Structuring code for readability and maintainability  
+- Separating logic, state, and rendering concerns  
+- Designing user interactions that feel intuitive and responsive  
+- Applying accessibility principles (ARIA, keyboard navigation)  
+- Writing clean, consistent code following defined standards  
+
+---
+
+## 📈 Current Focus
+
+- Completing Full-Stack JavaScript certification (FreeCodeCamp)
+- Expanding into React and component-based architecture
+- Building full-stack applications with Node.js and APIs
+- Continuing to refine UI/UX and state management patterns
+
+---
+
+## 🧠 Background
+
+- 15+ years in the U.S. Army leading technical teams and managing systems
+- Strong foundation in automation, troubleshooting, and process improvement
+- Experience working in high-stakes environments requiring precision and reliability
+
+These experiences now translate directly into how I approach software development — structured, deliberate, and focused on building systems that work.
 
 ---
 
 ## 🌎 Connect With Me
 
-- **Portfolio:** [https://calvinvanriper.dev](https://calvinvanriper.dev) (under construction)  
-- **LinkedIn:** [linkedin.com/in/calvinvanriper](https://www.linkedin.com/in/calvinvanriper)  
-- **CodePen:** [codepen.io/calvinvanriper](https://codepen.io/calvinvanriper)  
-- **Email:** hello@calvinvanriper.dev  
+- Portfolio: https://calvinvanriper.dev  
+- LinkedIn: https://www.linkedin.com/in/calvinvanriper  
+- CodePen: https://codepen.io/calvinvanriper  
+- Email: hello@calvinvanriper.dev  
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Note
 
-I love building tools that automate tasks and make systems run more smoothly — whether in code, IT infrastructure, or workflows.
-
----
-
-### Thanks for visiting! Feel free to explore my projects, connect with me, or reach out via email.
+I don’t just build projects to complete them — I revisit, refactor, and improve them until they reflect how I want to think and build as a developer.
