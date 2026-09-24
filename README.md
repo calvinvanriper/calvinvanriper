@@ -20,7 +20,7 @@ State-driven application with full CRUD functionality, status management, keyboa
 ### 🍨 Sweet Cart
 Interactive shopping cart with dynamic rendering, derived state calculations, and synchronized UI updates.
 
-🔗 https://calvinvanriper.dev/javascript-learning-labs/mini-projects/sweet-cart/
+🔗 https://calvinvanriper.dev/javascript-learning-labs/mini-projects/shopping-cart/
 
 ---
 
