@@ -1,82 +1,106 @@
-# Hi there 👋 I'm Calvin VanRiper
+# Hi, I'm Calvin VanRiper II 👋
 
-### Front-End Developer | Automation Engineer | U.S. Army Veteran
+### Software Developer | JavaScript, Power Platform & Automation | U.S. Army IT Leader
 
-I build interactive, state-driven web applications with a focus on clarity, structure, and user experience.
+I build practical software that transforms complicated workflows into reliable, accessible, and user-centered tools.
 
-What started as structured learning quickly became something more — I genuinely enjoy building. Whether it's refining UI behavior, improving state management, or reworking architecture for clarity, I find myself going deeper into projects because I want to make them better.
+I am transitioning into software development after a 20-year U.S. Army career in information systems and technical leadership. My experience combines JavaScript application development, workflow automation, Power Platform solutions, systems administration, and the delivery of technology in mission-critical environments.
+
+## Featured Projects
+
+### Personal Finance Dashboard
+
+A responsive financial dashboard that consolidates stock, precious-metal, and currency-exchange data from multiple external APIs.
+
+- Retrieves and renders asynchronous data from multiple services
+- Organizes financial information into a responsive interface
+- Built with semantic HTML, CSS, and vanilla JavaScript
+
+[Live Demo](https://calvinvanriper.dev/front-end-applications/applications/personal-finance-dashboard/) · [Source Code](https://github.com/calvinvanriper/front-end-applications/tree/main/applications/personal-finance-dashboard)
+
+### Account Transaction Ledger
+
+A browser-based ledger for managing categorized deposits and withdrawals while tracking posted, pending, running, and projected balances.
+
+- Supports complete transaction-management workflows
+- Separates pending and posted financial activity
+- Provides portable ledger import and export functionality
+- Built with semantic HTML, CSS, and vanilla JavaScript
+
+[Live Demo](https://calvinvanriper.dev/front-end-applications/applications/bank-account-ledger/) · [Source Code](https://github.com/calvinvanriper/front-end-applications/tree/main/applications/bank-account-ledger)
+
+### Project Idea Board
+
+A state-driven planning application for creating, editing, tracking, and deleting project ideas.
+
+- Implements complete CRUD workflows
+- Uses centralized rendering and class-based state management
+- Preserves application data with `localStorage`
+- Supports form validation, event delegation, and keyboard interaction
+
+[Live Demo](https://calvinvanriper.dev/javascript-learning-labs/mini-projects/project-idea-board/) · [Source Code](https://github.com/calvinvanriper/javascript-learning-labs/tree/main/mini-projects/project-idea-board)
+
+## Current Engineering Work
+
+I am designing and developing the **Army Logistics & Hardware Resources Management System (ALHRMS)**, an enterprise Power Apps and SharePoint solution intended to replace a 1,408-record Excel equipment tracker.
+
+The application includes:
+
+- Controlled equipment issuance, turn-in, and permanent-transfer workflows
+- User acceptance and dispute handling
+- Power Fx and direct `Patch()` data operations
+- Timestamped transaction history and audit logging
+- Data validation and accountability controls
+- Structured SharePoint data designed to support reliable workflow expansion
+
+Because ALHRMS supports an internal Army operational process, its source code, production data, and internal screenshots are not publicly available.
+
+## Technical Focus
+
+| Area                   | Technologies and Practices                                           |
+| ---------------------- | -------------------------------------------------------------------- |
+| Software Development   | JavaScript, HTML5, CSS3, DOM manipulation, state-driven interfaces   |
+| Web Applications       | Responsive design, REST API integration, asynchronous data retrieval |
+| Accessibility          | Semantic HTML, ARIA patterns, keyboard interaction, focus management |
+| Power Platform         | Power Apps, Power Fx, SharePoint Lists, Power Automate               |
+| Automation             | Excel VBA, PowerShell, Batch scripting, workflow design              |
+| Engineering Practices  | Git, GitHub, ESLint, Prettier, documentation, structured commits     |
+| Developing Proficiency | React and component-based architecture                               |
+
+## Engineering Approach
+
+My military technology experience shapes how I approach software development:
+
+- Understand the operational problem before designing the solution
+- Separate application state, business logic, and interface rendering
+- Build predictable workflows with clear validation and error handling
+- Treat accessibility, security, and documentation as design requirements
+- Test behavior under realistic conditions
+- Revisit and refactor working solutions as my understanding improves
+
+## Background
+
+- 20-year U.S. Army career in information systems and technical leadership
+- Bachelor of Science in Information Systems, Summa Cum Laude
+- CompTIA Security+ and Network+ certified
+- Experience leading technical teams and delivering mission-critical systems
+- Extensive background in automation, process improvement, system administration, and user support
+
+## Current Focus
+
+- Completing and documenting the ALHRMS data model and transaction architecture
+- Strengthening modern JavaScript application-development patterns
+- Preparing to resume React and component-based development
+- Building a portfolio of practical, maintainable software
+- Transitioning into a full-stack software-development career
+
+## Connect
+
+- [Portfolio](https://calvinvanriper.dev)
+- [LinkedIn](https://www.linkedin.com/in/calvinvanriper)
+- [CodePen](https://codepen.io/calvinvanriper)
+- [Email](mailto:hello@calvinvanriper.dev)
 
 ---
 
-## ⭐ Featured Projects
-
-### 🧠 Project Idea Board
-State-driven application with full CRUD functionality, status management, keyboard shortcuts, and persistent storage.
-
-🔗 https://calvinvanriper.dev/javascript-learning-labs/mini-projects/project-idea-board/
-
----
-
-### 🍨 Sweet Cart
-Interactive shopping cart with dynamic rendering, derived state calculations, and synchronized UI updates.
-
-🔗 https://calvinvanriper.dev/javascript-learning-labs/mini-projects/shopping-cart/
-
----
-
-### 🧩 Markdown to HTML Converter
-Custom parsing system that converts Markdown into structured HTML using a multi-step regex pipeline.
-
-🔗 https://calvinvanriper.dev/javascript-learning-labs/mini-projects/markdown-to-html-converter/
-
----
-
-### ♿ ARIA Tabs – Planets Interface
-Accessible tab interface implementing ARIA roles, keyboard navigation, and controlled focus management.
-
-🔗 https://calvinvanriper.dev/javascript-learning-labs/dom-and-events/aria-tabs/
-
----
-
-## 🛠️ What I Focus On
-
-- Building state-driven UI applications with predictable behavior  
-- Structuring code for readability and maintainability  
-- Separating logic, state, and rendering concerns  
-- Designing user interactions that feel intuitive and responsive  
-- Applying accessibility principles (ARIA, keyboard navigation)  
-- Writing clean, consistent code following defined standards  
-
----
-
-## 📈 Current Focus
-
-- Completing Full-Stack JavaScript certification (FreeCodeCamp)
-- Expanding into React and component-based architecture
-- Building full-stack applications with Node.js and APIs
-- Continuing to refine UI/UX and state management patterns
-
----
-
-## 🧠 Background
-
-- 15+ years in the U.S. Army leading technical teams and managing systems
-- Strong foundation in automation, troubleshooting, and process improvement
-- Experience working in high-stakes environments requiring precision and reliability
-
-These experiences now translate directly into how I approach software development — structured, deliberate, and focused on building systems that work.
-
----
-
-## 🌎 Connect With Me
-
-- Portfolio: https://calvinvanriper.dev  
-- LinkedIn: https://www.linkedin.com/in/calvinvanriper  
-- CodePen: https://codepen.io/calvinvanriper  
-- Email: hello@calvinvanriper.dev  
-
----
-
-## ⚡ Note
-
-I don’t just build projects to complete them — I revisit, refactor, and improve them until they reflect how I want to think and build as a developer.
+I do not build projects simply to complete them. I revisit, test, document, and improve them until they reflect how I want to think and work as a developer.
